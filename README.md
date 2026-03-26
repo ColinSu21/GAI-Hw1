@@ -14,3 +14,4 @@ This repository shows my workflow using a coding assistant.
 - initial setup
 - assistant draft
 - final version
+- Video link: https://youtu.be/-ZWCUjxopvA
